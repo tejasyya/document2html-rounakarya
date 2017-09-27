@@ -1,7 +1,8 @@
 # ReadMe #
 
 ## Sub-heading ##
-    - ABC
-    - DEF
-    ** for bold
+
+- ABC
+- DEF
+** for bold
     
