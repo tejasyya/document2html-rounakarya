@@ -4,8 +4,8 @@
 
 - ABC
 - DEF
-**for bold**
-_for italics_
+- **for bold**
+- _for italics_
 
 # heading #
     
