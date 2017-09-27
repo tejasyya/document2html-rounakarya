@@ -3,5 +3,5 @@
 ## Sub-heading ##
     -ABC
     -DEF
-    *for bold
+    * for bold
     
